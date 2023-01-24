@@ -1,20 +1,23 @@
-*{
+* {
     margin: 0%;
 }
+
 .Encabezado {
     color: black;
     background-color: red;
-    text-align: center;   
+    text-align: center;
     font-family: 'Courier New', Courier, monospace;
     height: 6em;
-    
+
 }
 
-      
+
+       
+
 
 .desafios {
     text-align: center;
-    
+
 }
 
 .fondo-grande {
@@ -30,38 +33,37 @@
 }
 
 .row {
-    justify-content: space-between;
+    align-content: space-around;
     position: absolute;
-    top: 50%;
+    top: 115%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: 'Courier New', Courier, monospace;
     font-size: larger;
     font-weight: bolder;
-    
-    
-  
+
+
 
 }
 
 .col-lg-6 {
-    margin-top: 12em;
+    margin: top 5px;;
     margin-left: 55%;
     column-count: auto;
-  
- 
-   
+    margin: 10px;
     
+
 }
 
 .card {
-        text-align: center;
+    text-align: center;
     margin-left: 45%;
-    background-color:yellow;
+    background-color: yellow;
     font-family: 'Courier New', Courier, monospace;
-        
+   
+
 }
 
-footer{
+footer {
     background-color: red;
-   }
+}
