@@ -97,4 +97,22 @@
 
 footer {
     background-color: red;
+    width: 100%;
+    height: 100%;
+    padding: 0%;
+    margin: 0%;
+    border: 0%;
+    align-items: center;
+
+    }
+.card-footer{
+    position: relative;
+    align-items: center;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%;
+    left: 50em;
+    padding: 0%;
+    margin: 0%;
+    background-color: yellow;
 }
