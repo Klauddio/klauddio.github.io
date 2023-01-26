@@ -60,10 +60,10 @@ body {
     float: inherit;
     width: 100%;
     display: flex;
+    left: 63em;
     max-width: 1100;
     position: absolute;
     top: 120%;
-    left: 65%;
     transform: translate(-50%, -50%);
     font-family: 'Courier New', Courier, monospace;
     font-size: larger;
@@ -135,7 +135,7 @@ footer {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     width: 100%;
-    left: 30em;
+    left: 50em;
     padding: 0%;
     margin: 0%;
 
