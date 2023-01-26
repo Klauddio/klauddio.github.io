@@ -12,6 +12,8 @@ html {
 body {
     min-height: 100%;
     width: 100100%
+    overflow:auto
+    
 }
 
 .Encabezado {
@@ -23,6 +25,7 @@ body {
     height: 6em;
     margin: 0em;
     padding: 0em
+    
 }
 
 .desafios {
